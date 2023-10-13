@@ -2,3 +2,5 @@ Today is Friday
 month is october
 year is 2023
 day is 13
+
+we are using Dell laptop
